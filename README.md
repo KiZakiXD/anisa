@@ -1,4 +1,4 @@
-# Anisa — Undangan Pernikahan Digital
+# Template Undangan Digital — Anisa
 
 Template undangan pernikahan digital satu file HTML yang elegan dan modern: navy (#16345E) di atas putih es, font Playfair Display & Allura, alur cover layar penuh sampai penutup yang rapi.
 
